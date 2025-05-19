@@ -1,0 +1,14 @@
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/bin/Debug/net8.0/Design-Patterns-CSharp
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/bin/Debug/net8.0/Design-Patterns-CSharp.deps.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/bin/Debug/net8.0/Design-Patterns-CSharp.runtimeconfig.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/bin/Debug/net8.0/Design-Patterns-CSharp.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/bin/Debug/net8.0/Design-Patterns-CSharp.pdb
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/Design-Patterns-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/Design-Patterns-CSharp.AssemblyInfoInputs.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/Design-Patterns-CSharp.AssemblyInfo.cs
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/Design-Patterns-CSharp.csproj.CoreCompileInputs.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/Design-Patterns-CSharp.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/refint/Design-Patterns-CSharp.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/Design-Patterns-CSharp.pdb
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/Design-Patterns-CSharp.genruntimeconfig.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FactoryMethod/obj/Debug/net8.0/ref/Design-Patterns-CSharp.dll
