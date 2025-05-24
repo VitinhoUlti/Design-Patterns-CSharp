@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory.Models
 {
-    public class RevestimentoBaseProtoss
+    public class EnergiaBaseMiguel : IEnergia
     {
         public void Composicao(){
-            Console.WriteLine("Base");
+            Console.WriteLine("Energia pela terra");
         }
     }
 }

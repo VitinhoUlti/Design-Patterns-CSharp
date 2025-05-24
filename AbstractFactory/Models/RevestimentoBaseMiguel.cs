@@ -5,10 +5,10 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory.Models
 {
-    public class RevestimentoBaseTerran : IRevestimento
+    public class RevestimentoBaseMiguel : IRevestimento
     {
         public void Composicao(){
-            Console.WriteLine("Base verde");
+            Console.WriteLine("Base de rubis");
         }
     }
 }

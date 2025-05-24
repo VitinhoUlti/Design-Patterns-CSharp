@@ -5,10 +5,8 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory.Models
 {
-    public class RevestimentoBaseZerg : IRevestimento
+    public interface IFabricaBases
     {
-        public void Composicao(){
-            Console.WriteLine("Base Vermelha");
-        }
+        void CriarBases();
     }
 }
