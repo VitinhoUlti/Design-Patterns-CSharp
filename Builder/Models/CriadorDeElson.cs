@@ -5,24 +5,24 @@ using System.Threading.Tasks;
 
 namespace Builder.Models
 {
-    public class CriadorDeVitor : CriadorDePersonagem
+    public class CriadorDeElson : CriadorDePersonagem
     {
-        public CriadorDeVitor()
+        public CriadorDeElson()
         {
-            personagem = new Vitor();
+            personagem = new Elson();
         }
 
         public override void Cabeça()
         {
-            personagem.EscolherCabeça("Cabeça do Vitor");
+            personagem.EscolherCabeça("Cabeça do Elson");
         }
         public override void Torso()
         {
-            personagem.EscolherTorso("Torso do Vitor");
+            personagem.EscolherTorso("Torso do Elson");
         }
         public override void Perna()
         {
-            personagem.EscolherPerna("Perna do Vitor");
+            personagem.EscolherPerna("Perna do Elson");
         }
     }
 }
