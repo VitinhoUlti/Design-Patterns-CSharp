@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Builder.Models;
+
+Criador criador = new Criador();
+CriadorDePersonagem criadorDePersonagem;
+Personagem personagem;
+
+criadorDePersonagem = new CriadorDeVitor();
+criador.ConstruirPersonagem(criadorDePersonagem);
+personagem = criadorDePersonagem.ObterPersonagem();
+Console.WriteLine($"Vitor entra na siulação, ele tem {personagem.Cabeça}, {personagem.Torso} e {personagem.Perna}");
