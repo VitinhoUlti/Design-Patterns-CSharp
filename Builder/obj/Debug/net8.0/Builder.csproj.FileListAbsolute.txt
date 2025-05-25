@@ -1,0 +1,15 @@
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/bin/Debug/net8.0/Builder
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/bin/Debug/net8.0/Builder.deps.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/bin/Debug/net8.0/Builder.runtimeconfig.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/bin/Debug/net8.0/Builder.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/bin/Debug/net8.0/Builder.pdb
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/Builder.AssemblyInfoInputs.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/Builder.AssemblyInfo.cs
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/Builder.csproj.CoreCompileInputs.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/Builder.sourcelink.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/Builder.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/refint/Builder.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/Builder.pdb
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/Builder.genruntimeconfig.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Builder/obj/Debug/net8.0/ref/Builder.dll
