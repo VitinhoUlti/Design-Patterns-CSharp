@@ -1,0 +1,15 @@
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/bin/Debug/net8.0/Prototype
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/bin/Debug/net8.0/Prototype.deps.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/bin/Debug/net8.0/Prototype.runtimeconfig.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/bin/Debug/net8.0/Prototype.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/bin/Debug/net8.0/Prototype.pdb
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfoInputs.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/Prototype.AssemblyInfo.cs
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/Prototype.csproj.CoreCompileInputs.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/Prototype.sourcelink.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/Prototype.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/refint/Prototype.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/Prototype.pdb
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/Prototype.genruntimeconfig.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/Debug/net8.0/ref/Prototype.dll
