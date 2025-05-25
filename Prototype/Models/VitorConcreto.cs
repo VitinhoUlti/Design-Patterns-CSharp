@@ -18,7 +18,7 @@ namespace Prototype.Models
 
         public override VitorModelo clone()
         {
-            Console.WriteLine("O clone foi criado, ele está ativo agora");
+            Console.WriteLine($"O clone foi criado, ele está ativo agora com {Corpo} e {Mente}");
             return this.MemberwiseClone() as VitorModelo;
         }
     }
