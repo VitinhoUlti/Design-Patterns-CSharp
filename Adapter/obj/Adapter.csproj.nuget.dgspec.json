@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/Prototype.csproj": {}
+    "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Adapter/Adapter.csproj": {}
   },
   "projects": {
-    "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/Prototype.csproj": {
+    "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Adapter/Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/Prototype.csproj",
-        "projectName": "Prototype",
-        "projectPath": "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/Prototype.csproj",
+        "projectUniqueName": "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Adapter/Adapter.csproj",
+        "projectName": "Adapter",
+        "projectPath": "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Adapter/Adapter.csproj",
         "packagesPath": "/home/vitin/.nuget/packages/",
-        "outputPath": "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Prototype/obj/",
+        "outputPath": "/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/Adapter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/vitin/.nuget/NuGet/NuGet.Config"
