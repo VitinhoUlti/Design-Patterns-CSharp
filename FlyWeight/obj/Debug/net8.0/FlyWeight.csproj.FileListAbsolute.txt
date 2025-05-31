@@ -1,0 +1,15 @@
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/FlyWeight.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/FlyWeight.AssemblyInfoInputs.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/FlyWeight.AssemblyInfo.cs
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/FlyWeight.csproj.CoreCompileInputs.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/FlyWeight.sourcelink.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/bin/Debug/net8.0/FlyWeight
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/bin/Debug/net8.0/FlyWeight.deps.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/bin/Debug/net8.0/FlyWeight.runtimeconfig.json
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/bin/Debug/net8.0/FlyWeight.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/bin/Debug/net8.0/FlyWeight.pdb
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/FlyWeight.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/refint/FlyWeight.dll
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/FlyWeight.pdb
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/FlyWeight.genruntimeconfig.cache
+/home/vitin/Documentos/Projetos/C#/Design-Patterns-CSharp/FlyWeight/obj/Debug/net8.0/ref/FlyWeight.dll
