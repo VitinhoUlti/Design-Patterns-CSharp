@@ -7,7 +7,7 @@ namespace FlyWeight.Models
 {
     public class BotaoDaDestruicao : Botao
     {
-        public override void Mostar(string cor)
+        public BotaoDaDestruicao(string cor)
         {
             Cor = cor;
         }

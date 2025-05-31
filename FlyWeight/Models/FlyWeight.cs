@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace FlyWeight.Models
 {
-    public class FlyWeight
+    public class FlyWeightClasse
     {
         private Dictionary<string, Botao> ListaDeBotoes = new Dictionary<string, Botao>();
         public Botao GetBotao(string cor)
@@ -21,10 +21,10 @@ namespace FlyWeight.Models
                 switch (cor)
                 {
                     case "vermelho":
-                        botao = new BotaoDaDestruicao();
+                        botao = new BotaoDaDestruicao("vermelho");
                         break;
                     case "verde":
-                        botao = new BotaoParaPararDestruicao();
+                        botao = new BotaoParaPararDestruicao("verde");
                         break;
                 }
                 ListaDeBotoes.Add(cor, botao);

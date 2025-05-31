@@ -7,13 +7,13 @@ namespace FlyWeight.Models
 {
     public class BotaoParaPararDestruicao : Botao
     {
-        public override void Mostar(string cor)
+        public BotaoParaPararDestruicao(string cor)
         {
             Cor = cor;
         }
         public override void AcaoDoBotao()
         {
-            Console.WriteLine("Parando Destuição.....");
+            Console.WriteLine("Você parou a explosão parabéns!");
         }
     }
 }
