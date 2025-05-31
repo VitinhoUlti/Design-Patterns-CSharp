@@ -9,6 +9,6 @@ Console.WriteLine("Colocou o cabo na tomada de 2 pinos");
 tomada2Pinos.ReceberEnergia();
 tomada2Pinos.Energizar();
 
-Console.WriteLine("Pegou um adaptador e inseriu na tomada de 3 pinos");
+Console.WriteLine("Pegou um adaptador e inseriu no cabo de 3 pinos");
 cabo3Pinos.ReceberEnergia3Pinos();
 cabo3Pinos.EnergizarMaisPotente();

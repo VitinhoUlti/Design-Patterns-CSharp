@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Adapter")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FlyWeight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09d7fb75ee4cf0a465fdfa4d7b9b4e0258f33b59")]
-[assembly: System.Reflection.AssemblyProductAttribute("Adapter")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Adapter")]
+[assembly: System.Reflection.AssemblyProductAttribute("FlyWeight")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FlyWeight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
